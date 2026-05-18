@@ -4,9 +4,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tarmizie-razal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com/?user=TR-999&locale=en&mode=daily&theme=dracula" height="150" alt="streak graph"  />
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TR-999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />-->
-  <!--<img alt="TR's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TR-999&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />-->
+  <img src="https://streak-stats.demolab.com/?user=tarmizie-razali&locale=en&mode=daily&theme=dracula" height="150" alt="streak graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarmizie-razali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />-->
+  <!--<img alt="TR's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tarmizie-razali&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />-->
 </div>
 
 ###
@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TR-999/TR-999/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tarmizie-razali/tarmizie-razali/output/snake.svg" alt="Snake animation" />
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
